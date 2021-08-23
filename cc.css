@@ -1,0 +1,94 @@
+ 
+ body
+ {
+	 padding:10px;
+	 background-color:	#F2F4F4 ;
+ }
+                   
+				   
+form{  
+	    width:40%;
+	    padding:35px;
+	    margin:auto;
+	    text-align:center;
+	    float: right;
+	    height: 260px;
+        background-color:#FFFFFF;   
+        border: 1px solid #ccc;
+	    border-radius: 10px;
+	     border-style: outset;
+}
+		   
+h1 {
+	
+       background-color:transparent ;
+       color: blue;
+}
+
+ div.relative {
+      position: relative;
+      top: 210px;
+      left:150px;
+      border: 0px solid black;
+}
+
+
+.button {
+         background-color:red;
+          border: none;
+          color: white;
+          padding: 15px 30px;
+          text-align: center;
+          text-decoration: none;
+          display: inline-block;
+          font-size: 16px;
+  
+}
+
+
+.button1 {width: 250px;
+background-color:blue;
+}
+
+
+
+.button2 {
+	
+	background-color:transparent;
+	color:blue;	
+}
+
+.button3
+{
+		background-color:green;
+		 width: 40%;
+}
+
+
+
+
+
+
+
+
+input[type=text ], select {
+  
+  width: 90%;
+  padding: 12px 20px;
+  margin: 10px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+
+input[type=number], select{
+	 width: 90%;
+  padding: 12px 20px;
+  margin: 10px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
